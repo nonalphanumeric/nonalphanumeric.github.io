@@ -1,0 +1,11 @@
+module:com.example.froggeroop
+com.example.froggeroop
+com.example.froggeroop.controllers
+com.example.froggeroop.entities
+com.example.froggeroop.graphical
+com.example.froggeroop.models
+com.example.froggeroop.terrain
+com.example.froggeroop.terrain.buffers
+com.example.froggeroop.util
+com.example.froggeroop.util.cor
+com.example.froggeroop.util.exceptions
